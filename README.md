@@ -11,7 +11,7 @@ Sample Instructor Username: batman, Password: batmanpass
 <h4> Student and Instructor Perspective: </h4>
 Login:
 <br>
-![](./b20website/screenshots/login.png?raw=true)
+<img href="https://github.com/Sumuhash/websiteB20/blob/master/b20website/screenshots/login.png" width=200 length=200>
 <br>
 
 Create New Account:

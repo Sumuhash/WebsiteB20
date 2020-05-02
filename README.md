@@ -5,8 +5,8 @@ An updated responsive website template for the course: Introduction to Web Appli
 <br>
 <h2>Screenshots </h2>
 
-Sample Student Username: hulksmash  Password: hulksmashpass <br>
-Sample Instructor Username: batman  Password: batmanpass
+Sample Student Username: hulksmash, Password: hulksmashpass <br>
+Sample Instructor Username: batman, Password: batmanpass
 <br>
 <h4> Student and Instructor Perspective: </h4>
 Login:

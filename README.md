@@ -1,7 +1,9 @@
 # websiteB20
+<h2> Description </h2>
+<hr>
 An updated responsive website template for the course: Introduction to Web Applications and Databases taught at the University of Toronto Scarborough. This website contains HTML, CSS, JavaScript, Python, Flask, and MySQL database.
-
-Screenshots
+<br>
+<h2>Screenshots </h2>
 <hr>
 Sample Student Username: hulksmash  Password: hulksmashpass
 Sample Instructor Username: batman  Password: batmanpass

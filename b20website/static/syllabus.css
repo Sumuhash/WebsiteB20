@@ -1,0 +1,46 @@
+body{
+	margin-top: 200px;
+	background-color: rgb(199, 228, 255);
+	font-family: 'Quicksand', sans-serif;
+}
+
+@media only screen and (max-width:1300px) {
+	body {
+		margin-top: 300px;
+	}
+}
+
+.cell {
+	display: flex;
+	justify-content: center;
+}
+
+.bars{
+	width: 500px;
+	background-color: rgb(250, 250, 250);
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+.bars_title{
+	border: 1px solid black;
+	width: 200px;
+	text-align: center;
+	margin-right: 10px;
+	background-color: rgb(250, 250, 250);
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#margin{
+	margin-top: 20px;
+	height: auto;
+}
+
+#req{
+	height: auto;
+}

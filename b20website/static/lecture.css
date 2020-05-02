@@ -1,0 +1,33 @@
+body{
+  margin-top: 200px;
+  background-color: rgb(199, 228, 255);
+  font-family: 'Quicksand', sans-serif;
+}
+
+@media only screen and (max-width:1300px) {
+  body {
+    margin-top: 300px;
+  }
+}
+
+.box{
+  padding: 30px;
+  margin-bottom: 25px;
+  background-color: rgb(250, 250, 250);
+  border-radius: 10px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+.spaces{
+  margin-top: 20px;
+  justify-content: space-between;
+
+}
+.decoration{
+  text-decoration: none;
+  color: black;
+}
+
+#big{
+  margin: 50px;
+}

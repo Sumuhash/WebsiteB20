@@ -1,0 +1,31 @@
+body{
+  margin-top: 200px;
+  background-color: rgb(199, 228, 255);
+  font-family: 'Quicksand', sans-serif;
+}
+
+@media only screen and (max-width:1300px) {
+  body {
+    margin-top: 300px;
+  }
+}
+
+/* css table code was taken from this link: https://stackoverflow.com/questions/33471997/how-can-i-create-a-table-without-the-regular-table-tag */
+/* modifications were made to satisfy the aesthetic of the page */
+.table {
+  display: table;
+}
+.table-row {
+  display: table-row;
+  text-align: center;
+  background: rgb(250, 250, 250);
+}
+.table-cell {
+  display: table-cell;
+  padding: 10px;
+  border-bottom: 1px solid black;
+  border-right: 1px dashed black;
+}
+.table-row:nth-child(1) {
+  background: rgb(200, 200, 200);
+}

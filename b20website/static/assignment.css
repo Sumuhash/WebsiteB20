@@ -1,0 +1,38 @@
+body{
+  margin-top: 200px;
+  background-color: rgb(199, 228, 255);
+  font-family: 'Quicksand', sans-serif;
+}
+
+@media only screen and (max-width:1300px) {
+  body {
+    margin-top: 300px;
+  }
+}
+
+#assign {
+  padding: 5px 5%;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  line-height: 1em;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #888888;
+  background-color: rgb(250, 250, 250)
+}
+
+#pop{
+  padding: 5px 140px 120px 10px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #888888;
+  background-color: rgb(250, 250, 250)
+}
+
+.box{
+  border: 1px solid black;
+  padding: 30px;
+  margin-bottom: 25px;
+}
+
+.space{
+  justify-content: space-between;
+}

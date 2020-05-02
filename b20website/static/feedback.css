@@ -1,0 +1,17 @@
+body{
+  margin-top: 200px;
+  background-color: rgb(199, 228, 255);
+  font-family: 'Quicksand', sans-serif;
+}
+
+@media only screen and (max-width:1300px) {
+  body {
+    margin-top: 300px;
+  }
+}
+
+.box{
+  border: 1px solid black;
+  padding: 30px;
+  margin-bottom: 25px;
+}

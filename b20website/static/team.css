@@ -1,0 +1,50 @@
+body{
+  margin-top: 160px;
+  background-color: rgb(199, 228, 255);
+  font-family: 'Quicksand', sans-serif;
+}
+
+@media only screen and (max-width:1300px) {
+  body {
+    margin-top: 250px;
+  }
+}
+
+img{
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #888888;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.picture{
+  display: flex;
+  padding-bottom: 10px;
+}
+
+@media only screen and (max-width:1000px) {
+  [class="picture"] {
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+}
+
+.information{
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+
+.space{
+  margin-right: 20px;
+}
+
+#moveable {
+  justify-content: space-between;
+}
+
+.spacing {
+  line-height: 30%
+}
